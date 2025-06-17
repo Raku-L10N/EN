@@ -1,3 +1,5 @@
+[![Actions Status](https://github.com/Raku-L10N/EN/actions/workflows/linux.yml/badge.svg)](https://github.com/Raku-L10N/EN/actions) [![Actions Status](https://github.com/Raku-L10N/EN/actions/workflows/macos.yml/badge.svg)](https://github.com/Raku-L10N/EN/actions) [![Actions Status](https://github.com/Raku-L10N/EN/actions/workflows/windows.yml/badge.svg)](https://github.com/Raku-L10N/EN/actions)
+
 NAME
 ====
 
