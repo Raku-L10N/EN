@@ -1,7 +1,7 @@
 # This file contains the English Slang of the Raku Programming Language
 
 #- start of generated part of localization ------------------------------------
-#- Generated on 2025-06-17T13:54:52+02:00 by ./update-localization
+#- Generated on 2025-06-18T13:46:38+02:00 by ./update-localization
 #- PLEASE DON'T CHANGE ANYTHING BELOW THIS LINE
 
 role L10N::EN {
@@ -23,6 +23,22 @@ role L10N::EN {
     token block-with { with}
     token block-without { without}
     token constraint-where { where}
+    token enum-BigEndian { BigEndian}
+    token enum-Broken { Broken}
+    token enum-False { False}
+    token enum-FileChanged { FileChanged}
+    token enum-FileRenamed { FileRenamed}
+    token enum-Kept { Kept}
+    token enum-Less { Less}
+    token enum-LittleEndian { LittleEndian}
+    token enum-More { More}
+    token enum-NativeEndian { NativeEndian}
+    token enum-Planned { Planned}
+    token enum-Same { Same}
+    token enum-SeekFromBeginning { SeekFromBeginning}
+    token enum-SeekFromCurrent { SeekFromCurrent}
+    token enum-SeekFromEnd { SeekFromEnd}
+    token enum-True { True}
     token infix-pcontp { "(cont)"}
     token infix-pelemp { "(elem)"}
     token infix-cff { "^ff"}
@@ -142,21 +158,13 @@ role L10N::EN {
     token stmt-prefix-start { start}
     token stmt-prefix-supply { supply}
     token stmt-prefix-try { try}
-    token term-Broken { Broken}
-    token term-False { False}
-    token term-Kept { Kept}
-    token term-Less { Less}
-    token term-More { More}
     token term-nano { nano}
     token term-now { now}
     token term-pi { pi}
-    token term-Planned { Planned}
     token term-rand { rand}
-    token term-Same { Same}
     token term-self { self}
     token term-tau { tau}
     token term-time { time}
-    token term-True { True}
     token traitmod-does { does}
     token traitmod-handles { handles}
     token traitmod-hides { hides}

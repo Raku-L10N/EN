@@ -373,6 +373,24 @@ core-words     words
 # KEY     TRANSLATION
 core-zip  zip
 
+# KEY                   TRANSLATION
+enum-BigEndian          BigEndian
+enum-Broken             Broken
+enum-False              False
+enum-FileChanged        FileChanged
+enum-FileRenamed        FileRenamed
+enum-Kept               Kept
+enum-Less               Less
+enum-LittleEndian       LittleEndian
+enum-More               More
+enum-NativeEndian       NativeEndian
+enum-Planned            Planned
+enum-Same               Same
+enum-SeekFromBeginning  SeekFromBeginning
+enum-SeekFromCurrent    SeekFromCurrent
+enum-SeekFromEnd        SeekFromEnd
+enum-True               True
+
 # KEY             TRANSLATION
 infix-(cont)      (cont)
 infix-(elem)      (elem)
@@ -728,17 +746,10 @@ system-TWEAK        TWEAK
 system-UPGRADE-RAT  UPGRADE-RAT
 
 # KEY      TRANSLATION
-term-Broken   Broken
-term-False    False
-term-Kept     Kept
-term-Less     Less
-term-More     More
 term-nano     nano
 term-now      now
 term-pi       pi
-term-Planned  Planned
 term-rand     rand
-term-Same     Same
 term-self     self
 term-tau      tau
 term-time     time

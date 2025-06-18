@@ -2,6 +2,9 @@ Revision history for L10N-EN
 
 {{$NEXT}}
 
+0.0.3  2025-06-18T13:48:45+02:00
+    - Add support for localization of core's enums
+
 0.0.2  2025-06-17T14:08:04+02:00
     - Update several translations
     - Update copyright year
