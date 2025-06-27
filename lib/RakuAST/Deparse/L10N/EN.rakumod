@@ -2,7 +2,7 @@
 # Programming Language.
 
 #- start of generated part of localization ------------------------------------
-#- Generated on 2025-06-18T13:46:38+02:00 by ./update-localization
+#- Generated on 2025-06-27T18:29:42+02:00 by update-localization.raku
 #- PLEASE DON'T CHANGE ANYTHING BELOW THIS LINE
 
 role RakuAST::Deparse::L10N::EN {

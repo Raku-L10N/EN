@@ -2,6 +2,9 @@ Revision history for L10N-EN
 
 {{$NEXT}}
 
+0.0.4  2025-06-27T18:30:41+02:00
+    - Updated internals to new L10N file layout
+
 0.0.3  2025-06-18T13:48:45+02:00
     - Add support for localization of core's enums
 
