@@ -8,6 +8,7 @@ L10N::EN - English localization of Raku
 
 =begin code :lang<raku>
 
+# Must have RAKUDO_RAKUAST=1 environment variable set
 use L10N::NL;           # or any other non-English localization
 zeg "Hallo wereld";
 {
