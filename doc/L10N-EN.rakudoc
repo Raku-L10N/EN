@@ -7,15 +7,14 @@ L10N::EN - English localization of Raku
 =head1 SYNOPSIS
 
 =begin code :lang<raku>
-
 # Must have RAKUDO_RAKUAST=1 environment variable set
+# when running a Rakudo older than the 2026.09 release
 use L10N::NL;           # or any other non-English localization
 zeg "Hallo wereld";
 {
     gebruik L10N::EN;   # Note: -use- is -gebruik- in L10N::NL
     say "Hello World";  # now back to "normal" english syntax
 }
-
 =end code
 
 =head1 DESCRIPTION
@@ -33,7 +32,7 @@ Elizabeth Mattijsen <liz@raku.rocks>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright 2023, 2025 Raku Localization Team
+Copyright 2023, 2025, 2026 Raku Localization Team
 
 This library is free software; you can redistribute it and/or modify it under the Artistic License 2.0.
 

@@ -10,14 +10,19 @@
   "description": "English localization of Raku",
   "license": "Artistic-2.0",
   "name": "L10N::EN",
-  "perl": "6.d",
   "provides": {
     "L10N::EN": "lib/L10N/EN.rakumod",
     "RakuAST::Deparse::L10N::EN": "lib/RakuAST/Deparse/L10N/EN.rakumod"
   },
+  "raku": "6.d",
   "resources": [
   ],
   "source-url": "https://github.com/Raku-L10N/EN.git",
+  "support": {
+    "bugtracker": "https://github.com/Raku-L10N/EN/issues",
+    "email": "l10n@raku.org",
+    "source": "https://github.com/Raku-L10N/EN.git"
+  },
   "tags": [
     "LOCALIZATION",
     "ENGLISH",
